@@ -9,7 +9,7 @@
 
 
 yum install centos-release-scl            #Install/Enable Software collections 
-yum install devtoolset-7-gcc*             #Works with devtoolset-N (N=4,5,6 and more)
-scl enable devtoolset-7 bash              # 
+yum install devtoolset-7-gcc*             #Works with devtoolset-N (N=4,5,6, etc)
+scl enable devtoolset-7 bash              
 
 gcc --version
