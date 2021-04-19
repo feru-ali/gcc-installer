@@ -4,7 +4,7 @@
 
 #Devtoolset has the package with latest release for any gcc version. Software collections needs to be enabled to make use of devtoolset.
 
-#Below code/set of commands will install gcc 7.3.1 on a centos/rhel machine.  
+#Below set of commands will install gcc 7.3.1 on a centos/rhel machine.  
 
 
 
